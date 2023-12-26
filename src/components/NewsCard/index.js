@@ -1,0 +1,1 @@
+export {default} from './NewsCard'; // NewsCard dan ne geliyorsa döndür default olarak (Nodejs özelliği)
